@@ -1,5 +1,6 @@
 # coinmonkey
-a coin bot tutorial in python related to the Zurich Meetup sessions :
+a coin bot tutorial in python related to the Zurich Meetup sessions : https://www.meetup.com/coinbots-meetup-in-zurich/
+
 We will start fron scratch and build the knowledge up.
 
 ### FIRST THINGS FIRST
