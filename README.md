@@ -16,3 +16,7 @@ Here are the starting references
 + Coinbase python API : https://developers.coinbase.com/api/v2?python#
 
 We will start from there and devise of an initial common startegy to explore these.
+
+Lets put here other ressources we might want to explore durng the first session:
+
++ https://github.com/vbuterin/pybitcointools
