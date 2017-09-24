@@ -1,5 +1,6 @@
 # coinmonkey
-a coin bot tutorial in python
+a coin bot tutorial in python related to the Zurich Meetup sessions :
+We will start fron scratch and build the knowledge up.
 
 ### FIRST THINGS FIRST
 
@@ -14,9 +15,14 @@ a coin bot tutorial in python
 #### Here are the starting references
 + Coinbase-python on Github : https://github.com/coinbase/coinbase-python
 + Coinbase python API : https://developers.coinbase.com/api/v2?python#
++ Coinbase trading app and API GDAX : https://developers.coinbase.com/docs/exchange
 
 We will start from there and devise of an initial common startegy to explore these.
 
 #### Lets put here other ressources we might want to explore durng the first session:
 
+existing python packages:
 + https://github.com/vbuterin/pybitcointools
++ ...
+
+
