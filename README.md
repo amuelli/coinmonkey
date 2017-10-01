@@ -22,7 +22,7 @@ We will start fron scratch and build the knowledge up.
 + Unofficial GDAX Python API : https://github.com/danpaquin/gdax-python
 + GDAX Python Sandbox : https://docs.gdax.com/?python#sandbox
 
-We will start from there and devise of an initial common startegy to explore these.
+We will start from there and devise of an initial common strategy to explore these.
 
 #### Lets put here other ressources we might want to explore durng the first session:
 
