@@ -26,8 +26,7 @@ We will start from there and devise of an initial common strategy to explore the
 
 #### Lets put here other ressources we might want to explore durng the first session:
 
-existing python packages:
 + https://github.com/vbuterin/pybitcointools
-+ ...
++ https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
 
 
